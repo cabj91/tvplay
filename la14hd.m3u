@@ -216,3 +216,6 @@ http://195.178.110.56/espn2_nl/mono.m3u8?token=883abe55e4fce18053213c619ca64e072
 http://195.178.110.56/espn3_nl/mono.m3u8?token=4099ad2f778e4cd9f897b5fcfa154c1410f4bb59-5b-1774556356-1774538356
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/elevenpro1_be.png",elevenpro1_be
 http://195.178.110.56/elevenpro1_be/mono.m3u8?token=8cf0374b1aa4bf45213144f2f50c8baf8ea2a55a-c3-1774556357-1774538357
+
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/elevenpro1_be.png",Moldavia
+https://24a1.streameasthd.net/global/disney16/index.m3u8?token=d53ca8e3272426349ff7d1029a156d3e3bb92eae-cd-1774586150-1774532150&ip=185.111.188.31
