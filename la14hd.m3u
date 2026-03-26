@@ -215,4 +215,11 @@ http://195.178.110.56/espn2_nl/mono.m3u8?token=72e123036d357ee195209c138aa4b77e6
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn3_nl.png",espn3_nl
 http://195.178.110.56/espn3_nl/mono.m3u8?token=81bdfe27cefe10407fbeea751541aa802308ebcd-ae-1774583164-1774565164
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/elevenpro1_be.png",elevenpro1_be
+<<<<<<< HEAD
 http://195.178.110.56/elevenpro1_be/mono.m3u8?token=6e53e577d191d47e499c817a19ce0ec77fe3f0f9-f5-1774583165-1774565165
+=======
+http://195.178.110.56/elevenpro1_be/mono.m3u8?token=8cf0374b1aa4bf45213144f2f50c8baf8ea2a55a-c3-1774556357-1774538357
+
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/elevenpro1_be.png",Brazil
+https://14c51.streameasthd.net/global/espn/index.m3u8?token=61ab644f16d92ed1c810c89b25a1bfe060576610-10-1774600970-1774546970&ip=185.111.188.31
+>>>>>>> d72e94a01d4f542b2c92fc823c423c1fa701e431
