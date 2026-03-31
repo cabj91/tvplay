@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 paraguay
 https://doc1.streameasthd.net/global/eventos2/index.m3u8?token=4917bdd24fcc9a79694748bae916ab926912cb9f-0c-1775025799-1774971799&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2
-
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 holanda
+https://14c51.streameasthd.net/global/disney14/index.m3u8?token=00678769107b49d4e3c0f3cb7366f29d2e51c449-fb-1775027761-1774973761&ip=185.111.188.31
