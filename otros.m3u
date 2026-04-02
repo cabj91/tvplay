@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 bolivia
-https://24a1.streameasthd.net/global/dsports/index.m3u8?token=7fe3b153d553860e8f42fc582798597c366354c2-5e-1775057867-1775003867&ip=185.111.188.31
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 holanda
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 boca
+https://98ca2.streameasthd.net/global/espnpremium/index.m3u8?token=0201699fec2f8e92dfa737f85fcac6894d2a2714-1d-1775216785-1775162785&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 republica checa
 
