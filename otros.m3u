@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 boca
-https://98ca2.streameasthd.net/global/espnpremium/index.m3u8?token=0201699fec2f8e92dfa737f85fcac6894d2a2714-1d-1775216785-1775162785&ip=185.111.188.31
-
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 republica checa
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 espn
+https://51a1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=185.111.188.31&token=71f9664e05450d7713ba44169ca75523df10220e-8e-1775632054-1775578054
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 espn2
+https://14c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=185.111.188.31&token=3920a52722daa3ca6f8890d4ca72bffca99eca52-0f-1775632156-1775578156
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 japon
 
