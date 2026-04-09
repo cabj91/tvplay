@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 espn
-https://pecdl1.streameasthd.net/global/espn/index.m3u8?token=78c8313ff0c1c3eef65846be5cb8acb0be485ebb-e0-1775719260-1775665260&ip=185.111.188.31
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 1 espn5
+https://8c51.streameasthd.net/espn5/tracks-v1a1/mono.m3u8?ip=185.111.188.31&token=fb6d5a42ba5468c35bc99b34d0aad0dd517a72c8-9f-1775817716-1775763716
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 espn2
-https://14c51.streameasthd.net/global/espn2/index.m3u8?token=3c4fdfac366a1b8a6b6f6819155d02ef309d07c0-4f-1775719381-1775665381&ip=185.111.188.31
-
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2
 
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 republica españa
 
+
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Canal 2 republica checa
+
