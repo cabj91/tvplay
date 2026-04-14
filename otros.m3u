@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn barcelona
-https://24a1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=92.246.128.40&token=9f2dd69600ba2cde3973c204a7e7fde7e1ba6cc7-39-1776235763-1776181763
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn barcelona br
+https://51a1.streameasthd.net/espn/index.m3u8?token=d880ad4654a0ca449742e498a4c8b76bb3ce3aa2-96-1776238742-1776184742&ip=193.123.106.154
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",barcelona 2
 https://98ca2.streameasthd.net/espn/index.m3u8?token=7640dcc2b90561eea3f5aee68907ab161b784b43-46-1776235906-1776181906&ip=92.246.128.40
