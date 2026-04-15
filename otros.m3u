@@ -1,19 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn1
-https://8c51.streameasthd.net/espn/index.m3u8?token=bde35f391c50e6f7ec87cb5dd616b8d9ef643bb2-be-1776323033-1776269033&ip=51.222.247.178
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn1_
+https://cc324.streamingtv339.com/fox1ar/index.m3u8?token=cb678a11529e9fc2a09a024c375437be1afa783e-1e-1776326217-1776272217&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 2
-https://8c51.streameasthd.net/global/espn/index.m3u8?token=accbf490d944939641b56323008cf85b796f5e31-ad-1776323139-1776269139&ip=51.222.247.178
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 3
-https://ag9wzq.fubohd.com/espn/mono.m3u8?token=a5d7b87f7128e5168f12476e13bd5390bf880395-68-1776295280-1776277280
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 4
-https://cc324.streamingtv339.com/live/fox1ar/index.m3u8?token=67040ef2acf7e07c0962881c63583790ac8c403b-09-1776323212-1776269212&ip=51.222.247.178
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",disney
-https://24a1.streameasthd.net/global/disney1/index.m3u8?token=30e4a9c2812d788b0ff65b26878d51a87b2c44ff-b4-1776323246-1776269246&ip=51.222.247.178
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",disney 2
-https://tyg2mnl9.fubohd.com/disney1/mono.m3u8?token=f26d81b3bb3cd9f8d420baa413a41a1345cd6549-a1-1776295362-1776277362
