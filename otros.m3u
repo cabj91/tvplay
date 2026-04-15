@@ -3,12 +3,17 @@
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn1_
 https://cc324.streamingtv339.com/fox1ar/index.m3u8?token=cb678a11529e9fc2a09a024c375437be1afa783e-1e-1776326217-1776272217&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 2
-
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 3
-
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 4
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 2_
+https://pecdl1.streameasthd.net/espn/index.m3u8?token=170205daef739a56e9fc260dcd50cd1b5463def1-4d-1776326286-1776272286&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",disney
+https://14c51.streameasthd.net/global/disney1/index.m3u8?token=76bb1e696ae1e9d5e86ff4fe89f9bb32440e4c38-6d-1776326351-1776272351&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",disney 2
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 4_
+https://8c51.streameasthd.net/global/espn/index.m3u8?token=9b5b9bb48f985c3cd77c0500db0253a7104e8414-f0-1776326381-1776272381&ip=185.111.188.31
+
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn5_
+https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=043aadca5094850c210874cfe0921be0ec4a8e12-67-1776298507-1776280507
+
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn6_
+https://n1.zohanayaan.com:1686/hls/espn1hd.m3u8?md5=E3SSPTLSAdUNe1fMasvpkQ&expires=1776288644
