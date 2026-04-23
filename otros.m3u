@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Chelsea
-https://14c51.streameasthd.net/global/espn/index.m3u8?token=3ae0b4e328e8ff8a13e2bcc469984127ba5bad46-7c-1776842374-1776788374&ip=216.225.199.168
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",fanatiz
+https://pecdl1.streameasthd.net/global/fanatiz3/index.m3u8?token=50ae4c60910201045bd788a85b572fbf71b5fc22-8f-1777029770-1776975770&ip=185.111.188.31
 
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",fanatix
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn premium
+https://98ca2.streameasthd.net/global/espnpremium/index.m3u8?token=b0d264be6f40205ec2ce06628bc9d9a0daa6cdbd-38-1777029830-1776975830&ip=185.111.188.31
 
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",rivadavia
