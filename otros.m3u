@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports
-https://pecdl1.streameasthd.net/global/dsports/index.m3u8?token=43b1388d83f82108b69ec9dcd8d14fe86f0deba1-ff-1777460771-1777406771&ip=185.111.188.31
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",fox sport
+https://8c51.streameasthd.net/global/fox1ar/index.m3u8?token=4047ae9e63a040187fed2abdeec7f477832b1eb4-82-1777711458-1777657458&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",tnt sports
-https://pecdl1.streameasthd.net/global/tntsports/index.m3u8?token=6505b90e0bd7181d5e5a8b0734b069a7c9a3d14b-42-1777104620-1777050620&ip=185.111.188.31
+
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",tnt espn2
+https://doc1.streameasthd.net/global/espn2/index.m3u8?token=c11201002671f1c520cdaab187cce1cff003ddf9-7c-1777711875-1777657875&ip=185.111.188.31
 
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn premium
