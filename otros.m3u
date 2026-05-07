@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",fox sports streamtp
-https://pecdl1.streameasthd.net/global/fox1ar/index.m3u8?token=c6984a54c831919fac2fe0278cbe0cf940cf86f0-91-1777871346-1777817346&ip=185.111.188.31
-
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 2 stream
+https://doc1.streameasthd.net/global/espn2/index.m3u8?token=688fd25025ee3cec788174f929ef13995a31a8d2-7b-1778236257-1778182257&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",tnt espn f1
 https://pre.streameasthd.net/espn/index.m3u8?token=0e9ba24d142ae77f149cde256e58b082ed306c47-9d-1777871533-1777817533&ip=185.111.188.31
