@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn1
-https://8c51.streameasthd.net/global/espn/index.m3u8?token=f390cd14ed64aad9ae27e46420550d593180854c-da-1780293608-1780239608&ip=130.51.22.36
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",brasil
+https://afy4c.envivoslatam.org/hotflix/event2/index.m3u8?token=ab9a0b5b1ba757df23ab9b5a6efcdf7d35632890-73-1780309665-1780255665&ip=130.51.22.36
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn2
 https://doc1.streameasthd.net/global/espn2/index.m3u8?token=7c5e76027b534dab093cbfa9f064f5c09eb99d4b-4d-1780293668-1780239668&ip=130.51.22.36
