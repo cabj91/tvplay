@@ -12,8 +12,8 @@ https://chrz.envivoslatam.org/lb05/espn/index.m3u8?token=12ed5942fb0e6cd076f9284
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",francia2
 https://iaw5b.envivoslatam.org/lb01/vix6/index.m3u8?token=768d515a1afe5259407188767dc3a3430ee04f3e-5f-1780651254-1780597254&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",nasatv
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",nasatv1
 http://192.168.1.184:9201/nasatv1
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",nasa2
-http://192.168.1.184:9201/nasatv1
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",nasatv2
+http://192.168.1.184:9201/nasatv2
