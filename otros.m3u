@@ -15,4 +15,5 @@ https://iaw5b.envivoslatam.org/lb01/vix6/index.m3u8?token=768d515a1afe5259407188
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",nasatv
 http://192.168.1.184:9201/nasatv1
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",in
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",nasa2
+http://192.168.1.184:9201/nasatv1
