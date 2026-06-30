@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports_1
-https://ovaut.vivolatamz.org/lb04/dsports/index.m3u8?token=51f6ee5df1495f6a9fed6a9304a4a893ae693a3b-dc-1782887468-1782833468&ip=130.51.22.15
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports_2
+https://khala.skylivehd.com/dsports/index.m3u8?ip=130.51.22.15&token=a7dc50ce185207da15cea124f2c967b415e08908-90-1782893306-1782839306
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports2
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports_3
 https://kbnue.vivolatamz.org/dsports/index.m3u8?token=bd2d09aca18d7135947376739bfa579ea96d21d5-93-1782827989-1782773989&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports3
