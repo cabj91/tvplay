@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports13
-https://khala.skylivehd.com/dsports/index.m3u8?ip=185.111.188.31&token=6cd74e657e3ef11ba9a8ace674fe41b14f124e67-24-1782821820-1782767820
-
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports4
+https://wp.streamtp.sbs:443/global/dsports/index.m3u8?token=86a83e5fa93d9ce7e09e10bb99ff638ed1c62d2f-d5-1782824438-1782770438&ip=185.111.188.31
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports23
+
 https://khala.skylivehd.com/global/tycsports/index.m3u8?ip=185.111.188.31&token=199ad784635e859ea6b7d9e810290c82622544a7-61-1782821908-1782767908
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports3
-https://fomis.phantemlis.top/premium619/index.m3u8?md5v1=f-w1geaiYCtFUjw7y1BhbQ&md5v2=IJzTJV_bSjom77zHaLq7BQ&expires=1782769036
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports5
+https://wp.streamtp.sbs/global/dsports/index.m3u8?token=86a83e5fa93d9ce7e09e10bb99ff638ed1c62d2f-d5-1782824438-1782770438&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsport4
-https://fomis.phantemlis.top/premium619/index.m3u8?md5v1=2NGdM5nKRQcjFbv_sHdLmw&md5v2=vnVcu7_9Cvz7EYDMQQS5wg&expires=1782769240
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsport6
+http://wp.streamtp.sbs/global/dsports/index.m3u8?token=86a83e5fa93d9ce7e09e10bb99ff638ed1c62d2f-d5-1782824438-1782770438&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",list1
 
