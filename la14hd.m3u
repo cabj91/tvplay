@@ -1,217 +1,218 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn
-
+http://195.178.110.56/espn/mono.m3u8?token=3a70bc444774d84a337b6418b61fed73d847f00d-a2-1782899859-1782881859
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn2.png",espn2
-
+http://195.178.110.56/espn2/mono.m3u8?token=923b2391a22cc2028aa64b5fcb9d7ab84463bd13-f7-1782899859-1782881859
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn3.png",espn3
-
+http://195.178.110.56/espn3/mono.m3u8?token=b3a9919593243d19434848b5ba4128e90fb5072c-9-1782899860-1782881860
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn4.png",espn4
-
+http://195.178.110.56/espn4/mono.m3u8?token=78a98172852e0eaac22e93bc67d91842b1217e01-f9-1782899860-1782881860
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn5.png",espn5
-
+http://195.178.110.56/espn5/mono.m3u8?token=a24ad5216415ad895126e4949c83951b2d016828-b0-1782899861-1782881861
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn6.png",espn6
-
+http://195.178.110.56/espn6/mono.m3u8?token=1fb37fc0853f94dc12f6201f8adb48ed3d968dc7-89-1782899861-1782881861
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn7.png",espn7
-
+http://195.178.110.56/espn7/mono.m3u8?token=b13714fcc2d693686e2992476dfd009b7e1ba2b0-55-1782899861-1782881861
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dsports.png",dsports
-
+http://195.178.110.56/dsports/mono.m3u8?token=d657281603b7017be00b558c7e154cf21590e36b-eb-1782899862-1782881862
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dsports2.png",dsports2
-
+http://195.178.110.56/dsports2/mono.m3u8?token=f49fd83361d3a425a66bee4f01b965a4f60fa2b6-31-1782899862-1782881862
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dsportsplus.png",dsportsplus
-
+http://195.178.110.56/dsportsplus/mono.m3u8?token=208ae2e17b100a101cb02aaa5008308bed1a3510-3a-1782899862-1782881862
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/goltv.png",goltv
-
+http://195.178.110.56/goltv/mono.m3u8?token=244f43c891adb90d9ee0cc55b6565ea1157ca279-8b-1782899863-1782881863
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/vtvplus.png",vtvplus
-
+http://195.178.110.56/vtvplus/mono.m3u8?token=4739684a71636503d54a20e4e433e790a0ec8f7c-fb-1782899863-1782881863
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/ecdf_ligapro.png",ecdf_ligapro
-
+http://195.178.110.56/ecdf_ligapro/mono.m3u8?token=0d000be1b2efc23e3f264ef3f998dc49096beae4-8-1782899863-1782881863
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports.png",foxsports
-
+http://195.178.110.56/foxsports/mono.m3u8?token=147571cf131dcd56057f222bffef12c0bab96923-8f-1782899864-1782881864
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports2.png",foxsports2
-
+http://195.178.110.56/foxsports2/mono.m3u8?token=fe8b0a9220f75c13809f9e6df1d89cd08ab280ec-78-1782899864-1782881864
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports3.png",foxsports3
-
+http://195.178.110.56/foxsports3/mono.m3u8?token=9638b1c2604478da045b7a8d60c13ec295ce0c31-bf-1782899865-1782881865
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tntsports.png",tntsports
-
+http://195.178.110.56/tntsports/mono.m3u8?token=24c94b89bda08ad0423d71bd6fe9d499cab7ee39-5b-1782899865-1782881865
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espnpremium.png",espnpremium
-
+http://195.178.110.56/espnpremium/mono.m3u8?token=e6d41a2ba651b2982a7bdacb4345ae552fa69b32-19-1782899866-1782881866
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tycsports.png",tycsports
-
+http://195.178.110.56/tycsports/mono.m3u8?token=6524a41c8e469eceb3035e14e28d6c322a3b310f-e1-1782899866-1782881866
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tycinternacional.png",tycinternacional
-
+http://195.178.110.56/tycinternacional/mono.m3u8?token=12ab1f4b425ee50dacb343c3b9c1164242165c36-9-1782899866-1782881866
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/telefe.png",telefe
-
+http://195.178.110.56/telefe/mono.m3u8?token=b479e3992578800b36064fba9ecf85819c55c1ea-77-1782899867-1782881867
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tvpublica.png",tvpublica
-
+http://195.178.110.56/tvpublica/mono.m3u8?token=f12f2122ed010aca5c0445cb8586626167109aa9-cd-1782899867-1782881867
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/golperu.png",golperu
-
+http://195.178.110.56/golperu/mono.m3u8?token=5229be569cf4f1f8e95ffa3b4d458d28480d2857-3-1782899867-1782881867
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/liga1max.png",liga1max
-
+http://195.178.110.56/liga1max/mono.m3u8?token=6a8ac9a618093bb9be95aceec4eddb7ce8feedfa-d3-1782899868-1782881868
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/movistar.png",movistar
-
+http://195.178.110.56/movistar/mono.m3u8?token=49432a49bf930ddafdeed038f633044d40d71d4d-50-1782899868-1782881868
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/winsportsplus.png",winsportsplus
-
+http://195.178.110.56/winsportsplus/mono.m3u8?token=43f99e5fbafaa4e1b99e0df6128164274e067771-86-1782899869-1782881869
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/winsports2.png",winsports2
-
+http://195.178.110.56/winsports2/mono.m3u8?token=a1ea41bfcc7cdb95f616b0b72f95976b130a7eb7-8d-1782899869-1782881869
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/winsports.png",winsports
-
+http://195.178.110.56/winsports/mono.m3u8?token=9b88c9d6d861065532bd05c7f49fcaae214a9245-c2-1782899869-1782881869
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsportsmx.png",foxsportsmx
-
+http://195.178.110.56/foxsportsmx/mono.m3u8?token=8a8cbe1a977fcd4a621983afd4063cc2fa40812b-71-1782899870-1782881870
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports2mx.png",foxsports2mx
-
+http://195.178.110.56/foxsports2mx/mono.m3u8?token=35789e5a675b6756255b15cf9ea080976896c8c9-4a-1782899870-1782881870
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports3mx.png",foxsports3mx
-
+http://195.178.110.56/foxsports3mx/mono.m3u8?token=7869007fbbf6b0b559d9d67b9f2f519f8904e168-14-1782899870-1782881870
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsportspremium.png",foxsportspremium
-
+http://195.178.110.56/foxsportspremium/mono.m3u8?token=00bdb2ef73ee4ca7b2c12c54cdefd6c9895ab80b-45-1782899871-1782881871
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tudn_mx.png",tudn_mx
-
+http://195.178.110.56/tudn_mx/mono.m3u8?token=e7f1ceb442bf1a2a283bd2abd3bdb6000ad869cf-cf-1782899871-1782881871
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espnmx.png",espnmx
-
+http://195.178.110.56/espnmx/mono.m3u8?token=5051d0435b3a06e6e939de9649364fa7c3358f96-1b-1782899871-1782881871
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn2mx.png",espn2mx
-
+http://195.178.110.56/espn2mx/mono.m3u8?token=f818d59db7463fb54fa17782e3df6fcea8c5301d-b0-1782899872-1782881872
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn3mx.png",espn3mx
-
+http://195.178.110.56/espn3mx/mono.m3u8?token=08f651cf758d8b5b2327b8e853177c6132875437-9c-1782899872-1782881872
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn4mx.png",espn4mx
-
+http://195.178.110.56/espn4mx/mono.m3u8?token=b018ecd840379af044c718c8e528fcdf685086e9-87-1782899872-1782881872
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/calientetv.png",calientetv
-
+http://195.178.110.56/calientetv/mono.m3u8?token=4a80d24327b74b83a8e844cff644668bb61e9253-83-1782899873-1782881873
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/azteca7.png",azteca7
-
+http://195.178.110.56/azteca7/mono.m3u8?token=28d4653b69f3da1c137d3f199a4bb298758242cf-6-1782899873-1782881873
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/canal5.png",canal5
-
+http://195.178.110.56/canal5/mono.m3u8?token=98db70e24861a458c8d7fc2799784d1193f91fde-70-1782899874-1782881874
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tvc_deportes.png",tvc_deportes
-
+http://195.178.110.56/tvc_deportes/mono.m3u8?token=4328d6cafc0c2c64a673284d0f9ea739be0187d9-d4-1782899874-1782881874
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/azteca_deportes.png",azteca_deportes
-
+http://195.178.110.56/azteca_deportes/mono.m3u8?token=b1572e0f948cf3d50c05042a3e543c075d8721c2-72-1782899874-1782881874
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/hisports.png",hisports
-
+http://195.178.110.56/hisports/mono.m3u8?token=8f39a37a42c259e69a0222da59480ace3e0e5810-27-1782899874-1782881874
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_sports_laliga.png",sky_sports_laliga
-
+http://195.178.110.56/sky_sports_laliga/mono.m3u8?token=4e4cc1fbdf8541205f5186acb837b446f534a497-21-1782899875-1782881875
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_bundesliga_mx.png",sky_bundesliga_mx
-
+http://195.178.110.56/sky_bundesliga_mx/mono.m3u8?token=62494cba439bd084ed4726a50e5387694b0ca781-27-1782899875-1782881875
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxdeportes.png",foxdeportes
-
+http://195.178.110.56/foxdeportes/mono.m3u8?token=57ccb0d0f191ea32098a64196fa395b592283ced-fa-1782899875-1782881875
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espndeportes.png",espndeportes
-
+http://195.178.110.56/espndeportes/mono.m3u8?token=dfe0c0d050494fa4c10cdea070ab7f8fd2720269-83-1782899876-1782881876
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/tudn.png",tudn
-
+http://195.178.110.56/tudn/mono.m3u8?token=607307a0f5592b599785e4d634bf48d36e650beb-9b-1782899876-1782881876
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/univision.png",univision
-
+http://195.178.110.56/univision/mono.m3u8?token=2ad842f5ff5b6b3845144efd6af3e0585cc474a5-df-1782899877-1782881877
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports1_usa.png",foxsports1_usa
-
+http://195.178.110.56/foxsports1_usa/mono.m3u8?token=a70918f8791b1fe95ed0c2a911bd1954a04e13b3-c2-1782899877-1782881877
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/foxsports2_usa.png",foxsports2_usa
-
+http://195.178.110.56/foxsports2_usa/mono.m3u8?token=9469b229f6a99cd33a27f73ffca39b8380aa45ba-60-1782899878-1782881878
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/universo.png",universo
-
+http://195.178.110.56/universo/mono.m3u8?token=4520d77907832b0256646bb05be6d1bd96241289-1d-1782899878-1782881878
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/beinsportes.png",beinsportes
-
+http://195.178.110.56/beinsportes/mono.m3u8?token=a9d3f3dcd6c811d403f1abd9c91c790b2c2b3772-2f-1782899878-1782881878
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/unimas.png",unimas
-
+http://195.178.110.56/unimas/mono.m3u8?token=ca484443c2875c1b316749bcef33afa286d22202-97-1782899879-1782881879
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/beinsport_xtra_espanol.png",beinsport_xtra_espanol
-
+http://195.178.110.56/beinsport_xtra_espanol/mono.m3u8?token=31d76e9a7cee00dd0779461a2eec79a24de3f981-95-1782899879-1782881879
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn_usa.png",espn_usa
-
+http://195.178.110.56/espn_usa/mono.m3u8?token=03dea1e3b0aeb781a356cbc3909621a786dae6ae-e6-1782899879-1782881879
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn2_usa.png",espn2_usa
-
+http://195.178.110.56/espn2_usa/mono.m3u8?token=0938320282532e834b864b905a73c8536a83c9e8-b5-1782899880-1782881880
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espnu.png",espnu
-
+http://195.178.110.56/espnu/mono.m3u8?token=a5d67e1f17a6aeafb6a4b1d8091aa9771adab0fc-f1-1782899880-1782881880
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/cbs_sports_network.png",cbs_sports_network
-
+http://195.178.110.56/cbs_sports_network/mono.m3u8?token=14cc8217d83a82791ecd6bbb3987ede5bc21a602-87-1782899881-1782881881
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/usanetwork.png",usanetwork
-
+http://195.178.110.56/usanetwork/mono.m3u8?token=6fc99e4f3d0ec8fe2776f08c73a449bf51980356-65-1782899881-1782881881
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/telemundo.png",telemundo
-
+http://195.178.110.56/telemundo/mono.m3u8?token=c36c331dc6263d64020ad8bcccb8372962a79973-7-1782899881-1782881881
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eventos13.png",eventos13
-
+http://195.178.110.56/eventos13/mono.m3u8?token=4b74ccb5495bf662f36d3fa20f72e5d131856747-6-1782899882-1782881882
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere1.png",premiere1
-
+http://195.178.110.56/premiere1/mono.m3u8?token=fb70c1c0cfbe5458bfdedf5a9c64efba6712a22f-42-1782899882-1782881882
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere2.png",premiere2
-
+http://195.178.110.56/premiere2/mono.m3u8?token=bc857a3c49f2dd7ffc19ec109e295e5c54e43bc7-47-1782899883-1782881883
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere3.png",premiere3
-
+http://195.178.110.56/premiere3/mono.m3u8?token=93885ae8c5341aea1d5b92f08e0212aafe941686-79-1782899883-1782881883
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere4.png",premiere4
-
+http://195.178.110.56/premiere4/mono.m3u8?token=78d599d6cf719af05abd5a78aa445820beae75e7-50-1782899883-1782881883
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere5.png",premiere5
-
+http://195.178.110.56/premiere5/mono.m3u8?token=49ef4c0de700b65b949d3fb9c89b09d888ecf453-87-1782899884-1782881884
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere6.png",premiere6
-
+http://195.178.110.56/premiere6/mono.m3u8?token=6b0ed2d516581c1933ac0b559040a87a411727bb-40-1782899884-1782881884
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere7.png",premiere7
-
+http://195.178.110.56/premiere7/mono.m3u8?token=ec17a7ded4aa5829eb6dac8fd42c15c5456342e4-5d-1782899885-1782881885
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/premiere8.png",premiere8
-
+http://195.178.110.56/premiere8/mono.m3u8?token=b9e5da68d62935eb46e9eb8440e4b0d79d33e6fb-27-1782899885-1782881885
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sportv.png",sportv
-
+http://195.178.110.56/sportv/mono.m3u8?token=03a8fbd5711bb7b31f1de7923cf91e607978d846-6c-1782899885-1782881885
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sportv2.png",sportv2
-
+http://195.178.110.56/sportv2/mono.m3u8?token=4e98e0ef7ddc1856c52dc0bc5b4afcffc64b2e4c-cf-1782899886-1782881886
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sportv3.png",sportv3
-
+http://195.178.110.56/sportv3/mono.m3u8?token=15ecaf112f0d8a215fcff2c68bf483ff4419e479-90-1782899886-1782881886
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sporttv1.png",sporttv1
-
+http://195.178.110.56/sporttv1/mono.m3u8?token=93a72b8d63cce0012a6f2b54cdc0c60fe0ba81fe-9b-1782899887-1782881887
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sporttv2.png",sporttv2
-
+http://195.178.110.56/sporttv2/mono.m3u8?token=97e9712cd2e3b3e7974d04a9dbe684a889bd29c3-b7-1782899887-1782881887
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sporttv3.png",sporttv3
-
+http://195.178.110.56/sporttv3/mono.m3u8?token=3a388051f8dac9ed953aef20f19c3739195394c1-d-1782899887-1782881887
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sporttv4.png",sporttv4
-
+http://195.178.110.56/sporttv4/mono.m3u8?token=e0743334e0a1593d7969326d7effe78f4269b60c-ec-1782899888-1782881888
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sporttv5.png",sporttv5
-
+http://195.178.110.56/sporttv5/mono.m3u8?token=1cbc507960c46778bb198ffebaf13ee45f3e8bd9-9a-1782899888-1782881888
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sporttv6.png",sporttv6
-
+http://195.178.110.56/sporttv6/mono.m3u8?token=a81473a673ad38a7b2cca81cf54b45377bc703a1-41-1782899889-1782881889
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/canal11_pt.png",canal11_pt
-
+http://195.178.110.56/canal11_pt/mono.m3u8?token=f5cd7f2334abd209726d2feb31c63ea8a8055d68-74-1782899889-1782881889
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eleven1_pt.png",eleven1_pt
-
+http://195.178.110.56/eleven1_pt/mono.m3u8?token=a44e90e8252df5393c6fb30393c50097f61a9eb5-c8-1782899889-1782881889
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eleven2_pt.png",eleven2_pt
-
+http://195.178.110.56/eleven2_pt/mono.m3u8?token=1edb24a1d0b651ab13ad6be55099ab818242f814-29-1782899890-1782881890
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eleven3_pt.png",eleven3_pt
-
+http://195.178.110.56/eleven3_pt/mono.m3u8?token=d0e51434e487ca12a6a9845a927dff542c136f5a-53-1782899890-1782881890
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eleven4_pt.png",eleven4_pt
-
+http://195.178.110.56/eleven4_pt/mono.m3u8?token=d471663afe80b94423b5df45c95059a417ad84d4-7c-1782899891-1782881891
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eleven5_pt.png",eleven5_pt
-
+http://195.178.110.56/eleven5_pt/mono.m3u8?token=d7ec3b580d63dc3e09bd27579afc81dafca920bc-bf-1782899891-1782881891
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/eleven6_pt.png",eleven6_pt
-
+http://195.178.110.56/eleven6_pt/mono.m3u8?token=5f44d8836d555e8ffcc495c94f88b0296fcbc787-94-1782899891-1782881891
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn1.png",dazn1
-
+http://195.178.110.56/dazn1/mono.m3u8?token=afc1ffea0469baeb1914c4b2e6b97020566fadd6-a1-1782899892-1782881892
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn2.png",dazn2
-
+http://195.178.110.56/dazn2/mono.m3u8?token=70f85ab8b7ecc59b4eddb67378ae4ac4093674d0-80-1782899892-1782881892
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn3.png",dazn3
-
+http://195.178.110.56/dazn3/mono.m3u8?token=091807b57672a70afa40a17d6b504f26bb7b6db6-11-1782899892-1782881892
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn4.png",dazn4
-
+http://195.178.110.56/dazn4/mono.m3u8?token=8af9e5107c90669bfdfea4827ca94d57e3f39561-33-1782899893-1782881893
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn_laliga.png",dazn_laliga
-
+http://195.178.110.56/dazn_laliga/mono.m3u8?token=64d50aad62d2b7f57b1cae692c5aaae403335456-e5-1782899893-1782881893
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/la1tve.png",la1tve
-
+http://195.178.110.56/la1tve/mono.m3u8?token=62456e8f05b4511df1228c0fd826758df9ca83d6-40-1782899894-1782881894
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/ligadecampeones1.png",ligadecampeones1
-
+http://195.178.110.56/ligadecampeones1/mono.m3u8?token=51f055b8e27a82b631f90eb35bc27e043d36dac7-e1-1782899894-1782881894
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/ligadecampeones2.png",ligadecampeones2
-
+http://195.178.110.56/ligadecampeones2/mono.m3u8?token=9a4fb1bf6196c36b3a4d5a459b83a8efe7460daa-e7-1782899894-1782881894
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/ligadecampeones3.png",ligadecampeones3
-
+http://195.178.110.56/ligadecampeones3/mono.m3u8?token=d3d9c75241d46f027a93a47a288ec3c55496b4e3-b4-1782899895-1782881895
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/m_laligatv.png",m_laligatv
-
+http://195.178.110.56/m_laligatv/mono.m3u8?token=2e981b84bdc4857911e9eb182e56b8df7d8d17fb-4d-1782899895-1782881895
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/laligatvbar.png",laligatvbar
-
+http://195.178.110.56/laligatvbar/mono.m3u8?token=242734d17c99448caeb31e6fb47692db69c949e6-5a-1782899895-1782881895
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_bundesliga1.png",sky_bundesliga1
-
+http://195.178.110.56/sky_bundesliga1/mono.m3u8?token=d8b174c93bfa0b38552485a471abd433da38bc86-a9-1782899896-1782881896
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_bundesliga2.png",sky_bundesliga2
-
+http://195.178.110.56/sky_bundesliga2/mono.m3u8?token=65371ea94781d3b214a0b4526aaf229e2ffbdd45-8-1782899896-1782881896
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_bundesliga3.png",sky_bundesliga3
-
+http://195.178.110.56/sky_bundesliga3/mono.m3u8?token=e66dc8180254f6883124c33588b55bbdf2d71356-32-1782899896-1782881896
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_bundesliga4.png",sky_bundesliga4
-
+http://195.178.110.56/sky_bundesliga4/mono.m3u8?token=071a284ab86d5d190a11a8f633e2c9e0c7f83345-fb-1782899897-1782881897
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/sky_bundesliga5.png",sky_bundesliga5
-
+http://195.178.110.56/sky_bundesliga5/mono.m3u8?token=1b18a52f872b942706e203cff39b92857f0a6d02-e6-1782899897-1782881897
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn1_de.png",dazn1_de
-
+http://195.178.110.56/dazn1_de/mono.m3u8?token=824ccce4d47654182df8cea0023525f8bc48a6bf-66-1782899898-1782881898
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/dazn2_de.png",dazn2_de
-
+http://195.178.110.56/dazn2_de/mono.m3u8?token=1690ba3fd92e22463483022b6e7a6d0c28873e72-f-1782899898-1782881898
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn1_nl.png",espn1_nl
-
+http://195.178.110.56/espn1_nl/mono.m3u8?token=ca73c08a69d85c03007ce0c9e6d6171e03dbb1c5-df-1782899898-1782881898
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn2_nl.png",espn2_nl
-
+http://195.178.110.56/espn2_nl/mono.m3u8?token=ba7ebf149737293585c19388113740e403f36da9-db-1782899899-1782881899
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn3_nl.png",espn3_nl
-
+http://195.178.110.56/espn3_nl/mono.m3u8?token=3ed2bdb829bf7a8847d2cfcf4086e3c8c5182a4c-f7-1782899899-1782881899
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/elevenpro1_be.png",elevenpro1_be
+http://195.178.110.56/elevenpro1_be/mono.m3u8?token=6c5837470556fcf2b195d10f8e6c4e270d8d483e-3d-1782899899-1782881899
