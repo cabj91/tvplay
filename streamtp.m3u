@@ -1,114 +1,114 @@
 #EXTM3U
 
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn.png", ESPN 1
-https://pw.streamtp.sbs:443/global/espn/index.m3u8?token=2642ebd33dbadfd0c0651fb272ab91a648217725-a1-1783827011-1783773011&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espn/index.m3u8?token=8afa7dcbbd3c9d6bda7821703968064e093225b9-f1-1783834209-1783780209&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn2.png", ESPN 2
-https://pw.streamtp.sbs:443/global/espn2/index.m3u8?token=fbf3050b2426f531a1a36e4ae0f2f9d61eb98cdb-26-1783827011-1783773011&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espn2/index.m3u8?token=9957e523e741670702d46d6949641d6dc43f5c5f-66-1783834209-1783780209&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn3.png", ESPN 3
-https://pw.streamtp.sbs:443/global/espn3/index.m3u8?token=8d676fa39ccab8262168a12e4ab99712acf01d10-49-1783827012-1783773012&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espn3/index.m3u8?token=9c2b07f73725fe275dd028c914a6fc1ba36babe8-0d-1783834210-1783780210&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn4.png", ESPN 4
-https://wp.streamtp.sbs:443/global/espn4/index.m3u8?token=c6333ae899b11a66d1979402bd3af8d4700f4155-40-1783827012-1783773012&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espn4/index.m3u8?token=4e248ba781c187cbf85c56ac88ebe4710e4838da-e3-1783834210-1783780210&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn5.png", ESPN 5
-https://pw.streamtp.sbs:443/global/espn5/index.m3u8?token=6a0f7d5594490d40e3b7b8ec0ab04dfa6ea0a1f5-9c-1783827013-1783773013&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espn5/index.m3u8?token=7cd95f0c9a7bef96ed9ecc3a1eb4a8afd11ca12a-6c-1783834210-1783780210&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn6.png", ESPN 6
-https://wp.streamtp.sbs:443/global/espn6/index.m3u8?token=12ce650d0da0884947a1a9a125bae904de87eef3-72-1783827013-1783773013&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/espn6/index.m3u8?token=22c4191d2865ecb8c96b032cf14c26ef229dd661-e8-1783834211-1783780211&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn7.png", ESPN 7
-https://pw.streamtp.sbs:443/global/espn7/index.m3u8?token=06b4b6a02546c37fe119cf78f6d39cfee884b1a5-14-1783827014-1783773014&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/espn7/index.m3u8?token=e41a627df691273649dedf76a4db26d2cb1517da-7d-1783834211-1783780211&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/winplus.png", Win Sports +
-https://pw.streamtp.sbs:443/global/winplus/index.m3u8?token=6ce5b515bf811f2d0dbd9e91a3a4b029604b7c58-7a-1783827014-1783773014&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/winplus/index.m3u8?token=a9490eca1f0da8a5a66bcc56d73ead25f4c32677-a9-1783834211-1783780211&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/winplus2.png", Win Sports + (Op2)
-https://pw.streamtp.sbs:443/global/winplus2/index.m3u8?token=894b7db856f88a8427bea18dbab0fc3ea7775568-da-1783827015-1783773015&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/winplus2/index.m3u8?token=883078a0d3187e7a1e2d27d8c44ac3ea7348c165-82-1783834212-1783780212&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/winsports.png", Win Sports
-https://pw.streamtp.sbs:443/global/winsports/index.m3u8?token=dc515e61218311905a1b581d86abbb7d55e3ba8a-c7-1783827015-1783773015&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/winsports/index.m3u8?token=e78b2c4939e1179a62da13c72010ff124122d78a-78-1783834212-1783780212&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox1ar.png", Fox Sports 1 (Argentina)
-https://pw.streamtp.sbs:443/global/fox1ar/index.m3u8?token=498c3da30a1ccd7b5a4e8e81aae456a9be0703b5-93-1783827016-1783773016&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/fox1ar/index.m3u8?token=0346b679cf7bcdf4bc392ac36a6a809f6fcec6cb-52-1783834212-1783780212&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox2ar.png", Fox Sports 2 (Argentina)
-https://wp.streamtp.sbs:443/global/fox2ar/index.m3u8?token=4b07c4112ff4c7b39313a31de30dbc2311e89616-aa-1783827016-1783773016&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/fox2ar/index.m3u8?token=97b6183ab36962d9bb816279ef755f380dd56440-cf-1783834213-1783780213&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox3ar.png", Fox Sports 3 (Argentina)
-https://wp.streamtp.sbs:443/global/fox3ar/index.m3u8?token=75a39bf71c4645b722e934c6e55b346199deb0c2-ae-1783827016-1783773016&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/fox3ar/index.m3u8?token=671ef65666198697edc96379125b0e051fdb2c36-be-1783834213-1783780213&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/dsports.png", Dsports
-https://wp.streamtp.sbs:443/global/dsports/index.m3u8?token=5e216b5407d6649e02fd8f93fd8a8cd39b0c40bb-82-1783827017-1783773017&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/dsports/index.m3u8?token=d72e891c560d274b90c823a5f1290cd63db9156f-c5-1783834213-1783780213&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/dsports2.png", Dsports 2
-https://wp.streamtp.sbs:443/global/dsports2/index.m3u8?token=707e6571201dffe3208437aca7235525b6bfc7ed-3c-1783827018-1783773018&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/dsports2/index.m3u8?token=f95539782d4e29710762cec49f3bf34183aa5658-be-1783834214-1783780214&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/dsportsplus.png", Dsports +
-https://pw.streamtp.sbs:443/global/dsportsplus/index.m3u8?token=098b88f11615a3fba7d7ea38f097537855a3d829-38-1783827018-1783773018&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/dsportsplus/index.m3u8?token=989c761971b0c2727e476879f9a91965e8b3915b-12-1783834214-1783780214&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tntsportschile.png", TNT Sports Chile
-https://pw.streamtp.sbs:443/global/tntsportschile/index.m3u8?token=afbae7ac49a3f5f4cda1f3383fafec17016b40b8-21-1783827019-1783773019&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/tntsportschile/index.m3u8?token=d5063f5421e31838ab2ba01b0d952a33b73524c9-6c-1783834214-1783780214&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tntsports.png", TNT Sports Argentina
-https://pw.streamtp.sbs:443/global/tntsports/index.m3u8?token=3f1e6720c33a7203477927e0aded56b3473f00a6-b4-1783827019-1783773019&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/tntsports/index.m3u8?token=a7528da3bd1c77fdca8177ab52808ab717b5c0d6-b1-1783834215-1783780215&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espnpremium.png", ESPN Premium Argentina
-https://wp.streamtp.sbs:443/global/espnpremium/index.m3u8?token=2dc7cead9b9ab89f78323e06e86717b36c8d27e0-5d-1783827019-1783773019&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/espnpremium/index.m3u8?token=f931b910f713907e9471d93fd1bf6eac55d4356d-87-1783834215-1783780215&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tycsports.png", TyC Sports
-https://wp.streamtp.sbs:443/global/tycsports/index.m3u8?token=d620c29280ba8d77d642bdc47f4e918291b95fc5-e1-1783827020-1783773020&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/tycsports/index.m3u8?token=9385f867f78c60c133687b7314c94f5099ee0b31-fc-1783834215-1783780215&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/telefe.png", Telefe
-https://pw.streamtp.sbs:443/global/telefe/index.m3u8?token=55955a1de9a7cb5a54c7867c3d5b1e9566b00ff9-0e-1783827020-1783773020&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/telefe/index.m3u8?token=7247c337751a9e2e26a8995de4a33f3927403d13-f7-1783834216-1783780216&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tv_publica.png", TV Pública
-https://pw.streamtp.sbs:443/global/tv_publica/index.m3u8?token=9de917711d2c1e88c1153a42bb7b61f162834ee2-2c-1783827021-1783773021&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/tv_publica/index.m3u8?token=507698b70cc532002489a6ec888b1cbc8c972f72-89-1783834216-1783780216&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/liga1max.png", Liga 1 MAX
-https://pw.streamtp.sbs:443/global/liga1max/index.m3u8?token=64aa683ecf0d265e6f496e9cb2fb5597002928f9-39-1783827021-1783773021&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/liga1max/index.m3u8?token=de39173945aee5e963d23d0072e7fd1f99960a28-a5-1783834216-1783780216&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espndeportes.png", ESPN Deportes USA
-https://pw.streamtp.sbs:443/global/espndeportes/index.m3u8?token=b0b6607b8df908d1be3e37e0d3182c373bdc9535-74-1783827022-1783773022&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espndeportes/index.m3u8?token=29af1214a5c4400ec7b7242c309d2f6c999248b2-26-1783834217-1783780217&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tudn_usa.png", TUDN USA
-https://wp.streamtp.sbs:443/global/tudn_usa/index.m3u8?token=c6974aa391690fb7facaa96fe177fcb20039db01-71-1783827022-1783773022&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/tudn_usa/index.m3u8?token=bfdc776b52ba16218d0c36d02d757e5b3abeaf1d-00-1783834217-1783780217&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox_1_usa.png", Fox Sports 1 USA
-https://wp.streamtp.sbs:443/global/fox_1_usa/index.m3u8?token=f1ff0992122c15a0c41ae6d4cc9d74718e7939c7-87-1783827023-1783773023&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/fox_1_usa/index.m3u8?token=c901ccf1b44612f4eacb1321add3dbc8309f42c5-bc-1783834217-1783780217&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox_2_usa.png", Fox Sports 2 USA
-https://wp.streamtp.sbs:443/global/fox_2_usa/index.m3u8?token=d1fb1830dbb7053b021c081dab971c641dcf5a95-98-1783827023-1783773023&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/fox_2_usa/index.m3u8?token=ec990f2c3c4bb918f4578586048ad038daebf77b-8a-1783834218-1783780218&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/universo_usa.png", Universo USA
-https://pw.streamtp.sbs:443/global/universo_usa/index.m3u8?token=5598cc2e459c3972c6add4e7013523cafc5d9c0c-ae-1783827023-1783773023&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/universo_usa/index.m3u8?token=fc718037d27074ed74e77625ae476ed0d829dff9-76-1783834218-1783780218&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/univision_usa.png", Univisíon USA
-https://wp.streamtp.sbs:443/global/univision_usa/index.m3u8?token=1406a213f3fd600237fbb74df2a8b2ceb6c8e799-60-1783827024-1783773024&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/univision_usa/index.m3u8?token=257d830ad099dd2f6ffe7227f4ac8110b25f4b35-ae-1783834218-1783780218&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox_deportes_usa.png", Fox Deportes USA
-https://pw.streamtp.sbs:443/global/fox_deportes_usa/index.m3u8?token=b6edc9980bb111002f15337ca32e2b5ba1409f3c-cc-1783827024-1783773024&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/fox_deportes_usa/index.m3u8?token=821863c9160541af127ed120debc0778f7dfcdda-fe-1783834219-1783780219&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/azteca7.png", Azteca 7 MX
-https://wp.streamtp.sbs:443/global/azteca7/index.m3u8?token=89e49322fa7afbabb7754e7baafd5b50f3b07cfe-c5-1783827025-1783773025&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/azteca7/index.m3u8?token=8c9e724083aecf3798d56d36cb078d18317e5372-8b-1783834219-1783780219&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsportsmx.png", Fox Sports 1 MX
-https://pw.streamtp.sbs:443/global/foxsportsmx/index.m3u8?token=a380c7a29aa37ae492cd8e1cf324ca4c3cbb1361-ef-1783827025-1783773025&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/foxsportsmx/index.m3u8?token=681475d3f176c1689bc57c5a6103faddcff690e7-15-1783834219-1783780219&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsports2mx.png", Fox Sports 2 MX
-https://wp.streamtp.sbs:443/global/foxsports2mx/index.m3u8?token=fb12b99c60fae346ed7be18ce5abfd229b06297a-45-1783827025-1783773025&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/foxsports2mx/index.m3u8?token=953a598fdb3250389a7d1ef640095ef6fced3413-49-1783834220-1783780220&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsports3mx.png", Fox Sports 3 MX
-https://wp.streamtp.sbs:443/global/foxsports3mx/index.m3u8?token=00db82e2542d166647ad5455320c76351e6a5b56-c5-1783827026-1783773026&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/foxsports3mx/index.m3u8?token=505e582eeaa562f0681a943c16d85fc07c5c2af1-c6-1783834220-1783780220&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsportspremium.png", Fox Sports Premium
-https://wp.streamtp.sbs:443/global/foxsportspremium/index.m3u8?token=285978030aa544b41ec9ca6f245728e9e38a5da2-8f-1783827026-1783773026&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/foxsportspremium/index.m3u8?token=c6b5a62007149829b79e76f3a6e42156d71fbe02-fa-1783834220-1783780220&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espnmx.png", ESPN MX
-https://wp.streamtp.sbs:443/global/espnmx/index.m3u8?token=fe30895f469c7d809b80ea57597ed4562bb1c759-a5-1783827026-1783773026&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espnmx/index.m3u8?token=d5c1fb791c59ce456eaf8baf4c5e41c3c3540005-5e-1783834221-1783780221&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn2mx.png", ESPN 2 MX
-https://wp.streamtp.sbs:443/global/espn2mx/index.m3u8?token=ada76d74228168c5e94c894543c7db3c0a0c6980-55-1783827027-1783773027&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/espn2mx/index.m3u8?token=b297ee5f5f995ea9aa65ae78c96c627c578c3f53-b8-1783834221-1783780221&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn3mx.png", ESPN 3 MX
-https://pw.streamtp.sbs:443/global/espn3mx/index.m3u8?token=2d9e25e371e4165e7d009124d08a963c4fcdec80-73-1783827027-1783773027&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/espn3mx/index.m3u8?token=07602bca42ae56324c5799659c5d8b2c4272bc79-d3-1783834221-1783780221&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tnt_1_gb.png", TNT 1 GB
-https://wp.streamtp.sbs:443/global/tnt_1_gb/index.m3u8?token=d2cf6427c04f0f5f92061e63c2f99c3fe02855cb-85-1783827027-1783773027&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/tnt_1_gb/index.m3u8?token=148dcb2e11c366528f46ebc187a735e830f93a60-77-1783834222-1783780222&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tnt_2_gb.png", TNT 2 GB
-https://pw.streamtp.sbs:443/global/tnt_2_gb/index.m3u8?token=608999bc048cf0002de180f11b0e2fd882d2dcab-b2-1783827028-1783773028&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/tnt_2_gb/index.m3u8?token=48b0dc33d00da9f7bed2ad561d82536052f78d84-c6-1783834222-1783780222&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tnt_3_gb.png", TNT 3 GB
-https://wp.streamtp.sbs:443/global/tnt_3_gb/index.m3u8?token=c5d6f6239bc9d06752fbee53a05f542bdae11aec-c7-1783827028-1783773028&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/tnt_3_gb/index.m3u8?token=e587bdb63cf1472b4879b73ee847d942ea8dd4cf-a0-1783834223-1783780223&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tnt_4_gb.png", TNT 4 GB
-https://pw.streamtp.sbs:443/global/tnt_4_gb/index.m3u8?token=72aa869d5d390f6a31370949de63571ff40a21c4-c3-1783827028-1783773028&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/tnt_4_gb/index.m3u8?token=fe06de85a7add9cac6e905ad167bee91b08eee12-8f-1783834223-1783780223&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/sporttvbr1.png", Sport TV 1 BR
-https://pw.streamtp.sbs:443/global/sporttvbr1/index.m3u8?token=6c382350f974c56258a413b8600da3fc6bc20596-f9-1783827029-1783773029&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/sporttvbr1/index.m3u8?token=7987c59f1eabf5c965d02f8e3e6253a3b3018cf7-d8-1783834223-1783780223&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/sporttvbr2.png", Sport TV 2 BR
-https://wp.streamtp.sbs:443/global/sporttvbr2/index.m3u8?token=8e959598960f654b9e605ddee2ed9d8653cc7b1d-b3-1783827029-1783773029&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/sporttvbr2/index.m3u8?token=7f4253e1ac3b6ac8b0f4df64834a78a2aeca7d4e-ca-1783834224-1783780224&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/sporttvbr3.png", Sport TV 3 BR
-https://wp.streamtp.sbs:443/global/sporttvbr3/index.m3u8?token=ca672efa83154b33ab3b7443582eba63755ec1cb-0f-1783827029-1783773029&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/sporttvbr3/index.m3u8?token=15bebf2b8c78901683348e8e438b2e54a50ae6f4-42-1783834224-1783780224&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/premiere1.png", Premiere 1 BR
-https://pw.streamtp.sbs:443/global/premiere1/index.m3u8?token=06af3fc968db74e04f7d00cf61897d1b4134890a-63-1783827030-1783773030&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/premiere1/index.m3u8?token=ef782ff051ac22ade313cdcd19e3312fb766eec0-a6-1783834224-1783780224&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/premiere2.png", Premiere 2 BR
-https://pw.streamtp.sbs:443/global/premiere2/index.m3u8?token=6ec49a6627deb0252c9ef48fa877b074eef2fbd3-c1-1783827030-1783773030&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/premiere2/index.m3u8?token=bd1cee362fa72ff878193f1765666dd20acc92aa-b7-1783834225-1783780225&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/premiere3.png", Premiere 3 BR
-https://pw.streamtp.sbs:443/global/premiere3/index.m3u8?token=e62d9864ea2f7a2aafbf13b0fba7024e2fd81567-0f-1783827030-1783773030&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/premiere3/index.m3u8?token=bce4207f644a02ab337d9e5746797ea2a95cd48f-07-1783834225-1783780225&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxone.png", Fox ONE MX
-https://wp.streamtp.sbs:443/global/foxone/index.m3u8?token=5c027cb0ba2d53d02d397e78881ea7b52b8684cd-00-1783827031-1783773031&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/foxone/index.m3u8?token=56cb7c1aa1cd7cb742f378a8d28975f90594c29c-6d-1783834225-1783780225&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxone1.png", Fox ONE 1 MX
-https://pw.streamtp.sbs:443/global/foxone1/index.m3u8?token=de1b6cd562af1795921dc114bb32d4d10ee0331d-4e-1783827031-1783773031&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/foxone1/index.m3u8?token=f2ee15cca2b207e1b2794b32b871c78bd0049d20-1c-1783834226-1783780226&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxone2.png", Fox ONE 2 MX
-https://pw.streamtp.sbs:443/global/foxone2/index.m3u8?token=9fb21b4398296df4f23f377bf87bc481de4ec742-bc-1783827031-1783773031&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/foxone2/index.m3u8?token=dd30941cbc2ef83bb0020b089d98808b5f95abd8-41-1783834226-1783780226&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxone3.png", Fox ONE 3 MX
-https://pw.streamtp.sbs:443/global/foxone3/index.m3u8?token=6657fd01d9dfa9390195832b6d6021e49f81fa68-76-1783827032-1783773032&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/foxone3/index.m3u8?token=4aea8a1e0843e1bd2e2e66f5c1d3346f44cafa72-0e-1783834226-1783780226&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tycinternacional.png", TyC Sports Internacional
-https://pw.streamtp.sbs:443/global/tycinternacional/index.m3u8?token=2cc0baf7873da07c5208efb8462e49adff7bf6fe-7d-1783827032-1783773032&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/tycinternacional/index.m3u8?token=d189c679674ad13cb006d994b4fd68ae43238893-5a-1783834227-1783780227&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/canal5mx.png", Canal 5 MX
-https://pw.streamtp.sbs:443/global/canal5mx/index.m3u8?token=eed60589221dea4d70edb05a78e846d959a04619-b4-1783827033-1783773033&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/canal5mx/index.m3u8?token=14fbe155ca39cba66aa5491a279c4ffda004beed-4e-1783834227-1783780227&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tudnmx.png", TUDN MX
-https://pw.streamtp.sbs:443/global/tudnmx/index.m3u8?token=000ba5faf011efa5d80d2dc2e039b86120890c19-14-1783827033-1783773033&ip=216.225.199.168
+https://wp.streamtp.sbs:443/global/tudnmx/index.m3u8?token=17ad1eb5faf1e84d31361ed9268db323d329ecbc-dc-1783834227-1783780227&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/futv.png", FUTV
-https://wp.streamtp.sbs:443/global/futv/index.m3u8?token=7c986cd2c0d45fda916785c7f01c6206118b6081-e0-1783827033-1783773033&ip=216.225.199.168
+https://pw.streamtp.sbs:443/global/futv/index.m3u8?token=f224355c89c0c82249530e72b2ec892a4f041b42-10-1783834228-1783780228&ip=216.225.199.168
