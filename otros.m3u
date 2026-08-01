@@ -6,8 +6,8 @@ https://p2.domain761.sbs/global/fanatiz9/index.m3u8?token=1dbe39b1826be4a579ea95
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",prueba2
 http://192.168.1.184:7860/extractor/video?d=https://voe.sx/e/n0djkrz9c1er&redirect_stream=true
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn opc2
-https://p1.domain761.sbs/global/espn/index.m3u8?token=967cd8acc37bc69c81615c552ac59a38f3f01ed8-64-1785147498-1785093498&ip=216.225.199.168
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",prueba3
+http://localhost:7860/proxy/manifest.m3u8?url=https://voe.sx/e/n0djkrz9c1er
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsport4
 https://pw.streamtp.sbs/global/dsports/index.m3u8?token=5c8688b512a89f7fe1eec2079860edb4a6974f94-42-1783851109-1783797109&ip=51.222.247.178
