@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",fanatiz boca1
-https://p2.domain761.sbs/global/fanatiz9/index.m3u8?token=1dbe39b1826be4a579ea95efff9f3268a95a593d-43-1785508770-1785454770&ip=185.111.188.31
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",prueba1
+http://192.168.1.184:7860/playlist?url=http%3A%2F%2Flocalhost%3A7860%2Fproxy%2Fmanifest.m3u8%3Furl%3Dhttps%3A%2F%2Fvoe.sx%2Fe%2Fn0djkrz9c1er
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",prueba2
 http://192.168.1.184:7860/extractor/video?d=https://voe.sx/e/n0djkrz9c1er&redirect_stream=true
