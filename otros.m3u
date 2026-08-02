@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",1
-http://localhost:7860/playlist?url=http%3A%2F%2Flocalhost%3A7860%2Fproxy%2Fmanifest.m3u8%3Furl%3Dhttps%3A%2F%2Fvoe.sx%2Fe%2Fn0djkrz9c1er
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",12
+http://192.168.1.184:7860/playlist?url=https%3A%2F%2Fvoe.sx%2Fe%2Fn0djkrz9c1er
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",2
 
