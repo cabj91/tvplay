@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",1234
 http://192.168.1.184:7860/playlist?url=http%3A%2F%2F192.168.1.184%3A7860%2Fproxy%2Fmanifest.m3u8%3Furl%3Dhttps%3A%2F%2Fvoe.sx%2Fe%2Fiheivb6wafxo
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",2135
-http://192.168.1.184:7860/proxy/manifest.m3u8?url=https%3A%2F%2Fvoe.sx%2Fe%2Fiheivb6wafxo
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",21356
+http://192.168.1.184:7860/proxy/stream?d=https%3A%2F%2Fvoe.sx%2Fe%2Fiheivb6wafxo
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",34
 http://192.168.1.184:7860/proxy/manifest.m3u8?url=https://voe.sx/e/iheivb6wafxo
