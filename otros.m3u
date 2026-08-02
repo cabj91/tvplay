@@ -9,7 +9,8 @@ http%3A%2F%2F192.168.1.184%3A7860%2Fproxy%2Fstream?d=https%3A%2F%2Fvoe.sx%2Fe%2F
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",345
 http://192.168.1.184:7860/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fvoe.sx%2Fe%2Fiheivb6wafxo
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",4
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",45
+http://192.168.1.184:7860/proxy/stream?d=https%3A%2F%2Fmegadl.boats%2Fdownload%2FEl.dia.de.la.revelacion.2026.720p-Dual-Lat.mkv%3Fdownload_token%3DH1HTajQ2r2HCl9ystlvlxkeAb88dx0uJ88dx0ue8Idt1uss9At66bXUgwLtUV956pjwaRUEzrnNPPcu1ZuxGbQ6wJhqkCJ2koHfYIbSCP0M3NwctIUGiffvmYkdokYHJTJUBT4ZDqRvZazWL4XGAPMTd0GCVRU4bhIwmTlyU6SBCTLLDEMqd56pjwajGpTKni3D7JDdd95ENCnNnqOQIQXXZffRXXPot56pjwa56pjwat88dx0u8klHPEO4yDZe20EbWuSylNkkgW8p89hy4
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports5
 https://ibrag.vivolatamz.org/lb11/dsports/index.m3u8?token=11cf229407e9691cf86df9292858b33735f764fa-4a-1783851181-1783797181&ip=51.222.247.178
