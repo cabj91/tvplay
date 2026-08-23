@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="spanish/audio.m3u8"
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",tennis2
 https://ds164.bluetier.top/TENNISCHANNEL/index.m3u8?token=VEVOTklTQ0hBTk5FTHxub19jaGVja19pcHwxNzg3MjYwMzI5.84fe7e8ebc190e676c32e1398e7b02e3e2e0d80e87ce1e2d720c87ea89188d3e
@@ -18,5 +19,5 @@ http://192.168.1.184:7860/playlist?url=https%3A%2F%2Fraw.githubusercontent.com%2
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",tnt sports
 https://y2fzdgxl.fubo18.com/tntsports/mono.m3u8?token=0cde59804de1098efa0f9ba884fe01ced1a2940a-7b-1785715938-1785697938
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",backrooms
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",LANGUAGE="es",backrooms 2
 http://192.168.42.129:8888/extractor/video.m3u8?host=Voe&d=https%3A%2F%2Fvoe.sx%2Fe%2F15ve5odtmoag&redirect_stream=true&api_password=mediaflow
