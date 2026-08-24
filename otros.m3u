@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="spanish/audio.m3u8"
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",tennis2
-https://ds164.bluetier.top/TENNISCHANNEL/index.m3u8?token=VEVOTklTQ0hBTk5FTHxub19jaGVja19pcHwxNzg3MjYwMzI5.84fe7e8ebc190e676c32e1398e7b02e3e2e0d80e87ce1e2d720c87ea89188d3e
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 1
+https://dglvz29s.fubo18.com/espn/mono.m3u8?token=7d0ad02a8ca968378446fe2e619cfa0f7c24ebbb-f2-1787547434-1787529434
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",dsports op2 boca
-https://b2zmawnpyww.fubo18.com/dsports/mono.m3u8?token=191e61e6cc02b65577143f1fc98acb3c02326632-7f-1786500367-1786482367
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 2
+https://se.tudeporteshoy.xyz/global/espnpremium/index.m3u8?token=a6b88be0d94320702d972b5dfed20b92dc323dcc-35-1787575421-1787521421&ip=185.111.188.31
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",345
-http://192.168.1.184:7860/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fvoe.sx%2Fe%2Fiheivb6wafxo
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 3
+https://p1.domain761.sbs/global/espnpremium/index.m3u8?token=c76e972d1ea7ac845e34054905591edc04a9bba6-0a-1787575472-1787521472&ip=185.111.188.31
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",45
 http://192.168.1.184:7860/proxy/stream?d=https%3A%2F%2Fmegadl.boats%2Fdownload%2FEl.dia.de.la.revelacion.2026.720p-Dual-Lat.mkv%3Fdownload_token%3DH1HTajQ2r2HCl9ystlvlxkeAb88dx0uJ88dx0ue8Idt1uss9At66bXUgwLtUV956pjwaRUEzrnNPPcu1ZuxGbQ6wJhqkCJ2koHfYIbSCP0M3NwctIUGiffvmYkdokYHJTJUBT4ZDqRvZazWL4XGAPMTd0GCVRU4bhIwmTlyU6SBCTLLDEMqd56pjwajGpTKni3D7JDdd95ENCnNnqOQIQXXZffRXXPot56pjwa56pjwat88dx0u8klHPEO4yDZe20EbWuSylNkkgW8p89hy4
