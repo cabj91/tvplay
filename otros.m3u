@@ -16,8 +16,8 @@ http://192.168.1.184:7860/proxy/stream?d=https%3A%2F%2Fmegadl.boats%2Fdownload%2
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",daddylive
 http://192.168.1.184:7860/playlist?url=https%3A%2F%2Fraw.githubusercontent.com%2FMetroid2023%2FDaddyLiveHD%2Frefs%2Fheads%2Fmain%2Fdlhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",prueba
-https://www.camwhores.tv/get_file/116/606c048033c3884c059c054beb4bd5bd/5840000/5840777/5840777.mp4/?v-acctoken=NDA4OHw1NDY0NTIxfDB8OThjNWU2OWNlOTE4NmZlZmUzNDNjODViNDQ0YmMyODYac7e6b6e2593e01c
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",prueba2
+ http://192.168.42.129:8888/proxy/stream?d=https%3A%2F%2Fwww.camwhores.tv%2Fget_file%2F116%2F606c048033c3884c059c054beb4bd5bd%2F5840000%2F5840777%2F5840777.mp4%2F%3Fv-acctoken%3DNDA4OHw1NDY0NTIxfDB8OThjNWU2OWNlOTE4NmZlZmUzNDNjODViNDQ0YmMyODYac7e6b6e2593e01c&api_password=mediaflow
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png" LANGUAGE="es",backrooms 2026
 http://192.168.42.129:8888/extractor/video.m3u8?host=Voe&d=https%3A%2F%2Fvoe.sx%2Fe%2F15ve5odtmoag&redirect_stream=true&api_password=mediaflow
