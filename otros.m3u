@@ -1,8 +1,7 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="spanish/audio.m3u8"
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 1
-https://dglvz29s.fubo18.com/espn/mono.m3u8?token=7d0ad02a8ca968378446fe2e619cfa0f7c24ebbb-f2-1787547434-1787529434
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 5
+https://khala.futlivehd.com/global/espn5/index.m3u8?ip=216.225.199.168&token=1bb53fed0de06e731eebebba6e1c33918ebcd9d1-c7-1787899809-1787845809
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 2
 https://se.tudeporteshoy.xyz/global/espnpremium/index.m3u8?token=a6b88be0d94320702d972b5dfed20b92dc323dcc-35-1787575421-1787521421&ip=185.111.188.31
