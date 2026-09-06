@@ -1,100 +1,100 @@
 #EXTM3U
 
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn.png", ESPN 1
-https://85.domhsd.com:443/global/espn/index.m3u8?token=e030f0854ff272fd34f5afa0e897534054d515fb-c4-1788773419-1788719419&ip=216.225.199.168
+https://7.domhsd.com:443/global/espn/index.m3u8?token=fa2c8e3d92ceffb064351eef57901aa06c869143-1c-1788780632-1788726632&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn2.png", ESPN 2
-https://193.domhsd.com:443/global/espn2/index.m3u8?token=23135e0695dcf9d2b3b4ef40fa2e3e37d8fca0ea-90-1788773420-1788719420&ip=216.225.199.168
+https://98.domhsd.com:443/global/espn2/index.m3u8?token=496996f0f82c290cef7b2a7ed6064fde2113b884-58-1788780633-1788726633&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn3.png", ESPN 3
-https://7.domhsd.com:443/global/espn3/index.m3u8?token=d592ede1be5dbf823e996aee624a713d12d26ff0-d1-1788773420-1788719420&ip=216.225.199.168
+https://193.domhsd.com:443/global/espn3/index.m3u8?token=b8164c0923a043aff40fa7c5e7d7a6a528201ce4-a7-1788780633-1788726633&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn4.png", ESPN 4
-https://193.domhsd.com:443/global/espn4/index.m3u8?token=fc04255eac07a0ee4641245e11c01829c70ddad7-e9-1788773421-1788719421&ip=216.225.199.168
+https://14.domhsd.com:443/global/espn4/index.m3u8?token=4b917d5e84afb7d83eb2da83e6f9fc1c7b1d634f-fa-1788780634-1788726634&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn5.png", ESPN 5
-https://193.domhsd.com:443/global/espn5/index.m3u8?token=92a1ae19e1cd46b67a2156f4cab13c263640c1fe-b7-1788773421-1788719421&ip=216.225.199.168
+https://47.domhsd.com:443/global/espn5/index.m3u8?token=43389cbfcf42344492551f0673019497d02d5591-71-1788780634-1788726634&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn6.png", ESPN 6
-https://47.domhsd.com:443/global/espn6/index.m3u8?token=13b01d0a6f844f3669cd1f0804bf871ee02bb816-59-1788773421-1788719421&ip=216.225.199.168
+https://7.domhsd.com:443/global/espn6/index.m3u8?token=2d10100970da5dad5477ec8e2a73734ae8c6e1a6-8a-1788780634-1788726634&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn7.png", ESPN 7
-https://47.domhsd.com:443/global/espn7/index.m3u8?token=2a61c860314b7f0b1328eaa9f239494587eab1c5-2e-1788773422-1788719422&ip=216.225.199.168
+https://14.domhsd.com:443/global/espn7/index.m3u8?token=a10fa6ed6897f974adf66c10c281e51767952ffd-49-1788780635-1788726635&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/winplus.png", Win Sports +
-https://47.domhsd.com:443/global/winplus/index.m3u8?token=844bb4c49a82bd295ba3756881c3c3cc4fe02db7-7e-1788773422-1788719422&ip=216.225.199.168
+https://193.domhsd.com:443/global/winplus/index.m3u8?token=fc91671a7d620c12d834e0e88dd7951ff0c86c1a-bf-1788780635-1788726635&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/winsports.png", Win Sports
-https://47.domhsd.com:443/global/winsports/index.m3u8?token=f4166d4c5443b2f52b123698c452f6bd8ab5eb7b-b7-1788773422-1788719422&ip=216.225.199.168
+https://85.domhsd.com:443/global/winsports/index.m3u8?token=bf9430e6a624433f280296db1db8dd1b8804b088-fa-1788780635-1788726635&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox1ar.png", Fox Sports 1 (Argentina)
-https://98.domhsd.com:443/global/fox1ar/index.m3u8?token=000547aa86204f2a6e80790e0036eb20fe50c1aa-9b-1788773423-1788719423&ip=216.225.199.168
+https://98.domhsd.com:443/global/fox1ar/index.m3u8?token=ef1008cae179dbcb5331a54477b9816439ca01a9-ad-1788780636-1788726636&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox2ar.png", Fox Sports 2 (Argentina)
-https://193.domhsd.com:443/global/fox2ar/index.m3u8?token=5dd9cdec1bb5e9cf4f4cecea704b0b9cefcfecdf-19-1788773423-1788719423&ip=216.225.199.168
+https://85.domhsd.com:443/global/fox2ar/index.m3u8?token=8f6c60562a9c1e3b320d5ab3c624b59574e15530-f2-1788780636-1788726636&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox3ar.png", Fox Sports 3 (Argentina)
-https://14.domhsd.com:443/global/fox3ar/index.m3u8?token=7a8d43c108bf1545427ec1ef129a4f318c3f9e29-4e-1788773424-1788719424&ip=216.225.199.168
+https://193.domhsd.com:443/global/fox3ar/index.m3u8?token=c434bcd826c09a423ec55ea5a9eeb37c188699c5-04-1788780637-1788726637&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/dsports.png", Dsports
-https://85.domhsd.com:443/global/dsports/index.m3u8?token=048ca8069a2dbacef4bc432384f2d8fb058d09de-e3-1788773424-1788719424&ip=216.225.199.168
+https://47.domhsd.com:443/global/dsports/index.m3u8?token=7841b1c3a23be725bc7a6e32877ec3d6ad5227a7-ee-1788780637-1788726637&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/dsports2.png", Dsports 2
-https://85.domhsd.com:443/global/dsports2/index.m3u8?token=db4066fba8e5b0001dcc2a8db6e49d29b6e7b616-47-1788773424-1788719424&ip=216.225.199.168
+https://47.domhsd.com:443/global/dsports2/index.m3u8?token=9d51372b5f66936d62f7483f851f77764296b2b9-33-1788780637-1788726637&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/dsportsplus.png", Dsports +
-https://7.domhsd.com:443/global/dsportsplus/index.m3u8?token=5f7f77dea1e297451916a64c999be6886569870e-16-1788773425-1788719425&ip=216.225.199.168
+https://98.domhsd.com:443/global/dsportsplus/index.m3u8?token=09d12fe0adc2c2b9c9faf042800287892db90b66-e7-1788780638-1788726638&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tntsportschile.png", TNT Sports Chile
-https://7.domhsd.com:443/global/tntsportschile/index.m3u8?token=6ceeff5471d7964d0fb01b1739bb92ce6d215fde-d0-1788773425-1788719425&ip=216.225.199.168
+https://7.domhsd.com:443/global/tntsportschile/index.m3u8?token=9244f8e9bbfcf28c8fde5668d3e0d1a66d9d715d-7e-1788780638-1788726638&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tntsports.png", TNT Sports Argentina
-https://98.domhsd.com:443/global/tntsports/index.m3u8?token=65ec9686c3804ffd7138698e75611bdc3d423e94-ba-1788773426-1788719426&ip=216.225.199.168
+https://193.domhsd.com:443/global/tntsports/index.m3u8?token=29bf6ba2cdd29680186e2e81a9377bc0b4cc6aab-67-1788780638-1788726638&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espnpremium.png", ESPN Premium Argentina
-https://14.domhsd.com:443/global/espnpremium/index.m3u8?token=6dfbb546d80214e584c45783dc7dbefa0029e3f8-fd-1788773426-1788719426&ip=216.225.199.168
+https://7.domhsd.com:443/global/espnpremium/index.m3u8?token=d779d4f4c2f3c5afcadf932f636d4aabd81f8d2e-d9-1788780639-1788726639&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tycsports.png", TyC Sports
-https://85.domhsd.com:443/global/tycsports/index.m3u8?token=2ebe28f81d45535b62b42c6b26a8d7c25bed5cda-35-1788773427-1788719427&ip=216.225.199.168
+https://47.domhsd.com:443/global/tycsports/index.m3u8?token=b95b251dbfc4f7f4b19ccc2773cbbbd2cc9f42bf-59-1788780639-1788726639&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/telefe.png", Telefe
-https://193.domhsd.com:443/global/telefe/index.m3u8?token=74e5c22d2c0c6052da414d8c82e305aaac0d460d-bd-1788773427-1788719427&ip=216.225.199.168
+https://98.domhsd.com:443/global/telefe/index.m3u8?token=cecda11311ba8cffa7016c6eb39ee27826cc8825-30-1788780639-1788726639&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tv_publica.png", TV Pública
-https://14.domhsd.com:443/global/tv_publica/index.m3u8?token=203abac69549451d0985c2be7ebfab67eb37dd76-52-1788773428-1788719428&ip=216.225.199.168
+https://7.domhsd.com:443/global/tv_publica/index.m3u8?token=804bf7a482651b9b13ffe04836a8a3c6af88895e-38-1788780640-1788726640&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/liga1max.png", Liga 1 MAX
-https://193.domhsd.com:443/global/liga1max/index.m3u8?token=c57a7f92cd602befa7c1de21e5b94fbf5d1c9ace-09-1788773428-1788719428&ip=216.225.199.168
+https://7.domhsd.com:443/global/liga1max/index.m3u8?token=31602047e190e41c2c27e9bd33178cb74f2634cf-87-1788780640-1788726640&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espndeportes.png", ESPN Deportes USA
-https://47.domhsd.com:443/global/espndeportes/index.m3u8?token=17accb67a0ca6dffc783a6edd2d0164271c64a65-e0-1788773428-1788719428&ip=216.225.199.168
+https://193.domhsd.com:443/global/espndeportes/index.m3u8?token=66a4eb1340987795b52461edf0e0fe055a6024d4-ed-1788780640-1788726640&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tudn_usa.png", TUDN USA
-https://14.domhsd.com:443/global/tudn_usa/index.m3u8?token=f2cb8e707ab0ca4980d888c591758c4bb9b55654-24-1788773429-1788719429&ip=216.225.199.168
+https://85.domhsd.com:443/global/tudn_usa/index.m3u8?token=187a8082a4396785387629bbfc2c82c13761002a-09-1788780641-1788726641&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox_1_usa.png", Fox Sports 1 USA
-https://85.domhsd.com:443/global/fox_1_usa/index.m3u8?token=0b1997aa2c84ec89ffe5583a202d700737bf4487-27-1788773429-1788719429&ip=216.225.199.168
+https://193.domhsd.com:443/global/fox_1_usa/index.m3u8?token=3d11c5ff3fda0a68c57ef160f8bdc2f54945c4c4-fc-1788780642-1788726642&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox_2_usa.png", Fox Sports 2 USA
-https://7.domhsd.com:443/global/fox_2_usa/index.m3u8?token=7a42d413006b5fccbad04093aed79aa278a2326b-e1-1788773429-1788719429&ip=216.225.199.168
+https://7.domhsd.com:443/global/fox_2_usa/index.m3u8?token=5f0befef4397281b0809b267facddabd13a46a9d-ae-1788780642-1788726642&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/universo_usa.png", Universo USA
-https://193.domhsd.com:443/global/universo_usa/index.m3u8?token=8bfb49aca13e9d23994e2604a960fa1174a80286-f8-1788773430-1788719430&ip=216.225.199.168
+https://98.domhsd.com:443/global/universo_usa/index.m3u8?token=97fddc679e1f22ce9fb2dcf5cf9df4ff19aa631a-cf-1788780643-1788726643&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/univision_usa.png", Univisíon USA
-https://47.domhsd.com:443/global/univision_usa/index.m3u8?token=6eb74ed2f39a0704e4cc1bb1bdd223131c791224-3c-1788773431-1788719431&ip=216.225.199.168
+https://98.domhsd.com:443/global/univision_usa/index.m3u8?token=221bd588fd71aecf3f3b07eade26e6553336699a-f8-1788780643-1788726643&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/fox_deportes_usa.png", Fox Deportes USA
-https://47.domhsd.com:443/global/fox_deportes_usa/index.m3u8?token=384ef5febc956037b0529f6374584f70e0ae57e9-e2-1788773431-1788719431&ip=216.225.199.168
+https://14.domhsd.com:443/global/fox_deportes_usa/index.m3u8?token=32d14a4e3c54cd9125f9257eddaedbd9a7eb71a0-f8-1788780643-1788726643&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/telemundousa.png", Telemundo US
-https://47.domhsd.com:443/global/telemundousa/index.m3u8?token=91cac1f16a6b457586eb11929929f4877735fef7-fa-1788773432-1788719432&ip=216.225.199.168
+https://47.domhsd.com:443/global/telemundousa/index.m3u8?token=6bedcfca6fbc0e205fd457c5b6dde50430c8723a-18-1788780644-1788726644&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsportsmx.png", Fox Sports 1 MX
-https://193.domhsd.com:443/global/foxsportsmx/index.m3u8?token=3a9fa16f8cd6b7413c33a32a3f7d597dd8b29f69-b3-1788773432-1788719432&ip=216.225.199.168
+https://85.domhsd.com:443/global/foxsportsmx/index.m3u8?token=6055eed183a0f920b2c9874efc9305f62f682f29-59-1788780644-1788726644&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsports2mx.png", Fox Sports 2 MX
-https://7.domhsd.com:443/global/foxsports2mx/index.m3u8?token=41f34ab9d04e707f922987a3a57050efc54a092c-1e-1788773432-1788719432&ip=216.225.199.168
+https://98.domhsd.com:443/global/foxsports2mx/index.m3u8?token=374fdbae0853401cb00aa5c24cd47c9b9febd7d6-32-1788780644-1788726644&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsports3mx.png", Fox Sports 3 MX
-https://98.domhsd.com:443/global/foxsports3mx/index.m3u8?token=17cc54b17db545a9e11dbbcff97cd24c630da1b8-c5-1788773433-1788719433&ip=216.225.199.168
+https://98.domhsd.com:443/global/foxsports3mx/index.m3u8?token=4ac9a3dc9984972538ae3d06fe50c8bb4828e28a-61-1788780645-1788726645&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxsportspremium.png", Fox Sports Premium
-https://98.domhsd.com:443/global/foxsportspremium/index.m3u8?token=79619531328d58b18c061f26d66cff1b420c1ab3-32-1788773433-1788719433&ip=216.225.199.168
+https://85.domhsd.com:443/global/foxsportspremium/index.m3u8?token=cadf92a9c744e493bcee9755a37634a127a7eb75-e9-1788780645-1788726645&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espnmx.png", ESPN MX
-https://85.domhsd.com:443/global/espnmx/index.m3u8?token=97b4ebac149728b9446e168bdb0f565b70495b60-72-1788773433-1788719433&ip=216.225.199.168
+https://85.domhsd.com:443/global/espnmx/index.m3u8?token=734707b685b618764be621db472938f1e20cfd84-8a-1788780645-1788726645&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn2mx.png", ESPN 2 MX
-https://47.domhsd.com:443/global/espn2mx/index.m3u8?token=ebf3a169a44d3d471d2432c2c2cb17aea82134b8-ff-1788773434-1788719434&ip=216.225.199.168
+https://193.domhsd.com:443/global/espn2mx/index.m3u8?token=ecb32c9fb5cabafdc5ef48dd6024124b4a8c9add-a2-1788780646-1788726646&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/espn3mx.png", ESPN 3 MX
-https://193.domhsd.com:443/global/espn3mx/index.m3u8?token=f01eda3ccb2edd2e8860135ad054ce1cce1d792f-4c-1788773434-1788719434&ip=216.225.199.168
+https://193.domhsd.com:443/global/espn3mx/index.m3u8?token=6e964a68dbd924d54a10fa20556a7b4c69c8ee00-fd-1788780646-1788726646&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/sporttvbr1.png", Sport TV 1 BR
-https://14.domhsd.com:443/global/sporttvbr1/index.m3u8?token=6f0bd88f75c8883dd59fe7494ff8b577739075f8-d7-1788773434-1788719434&ip=216.225.199.168
+https://193.domhsd.com:443/global/sporttvbr1/index.m3u8?token=6ec03a622f451f004c3afd1afbc20e56a9507dd8-99-1788780646-1788726646&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/sporttvbr2.png", Sport TV 2 BR
-https://85.domhsd.com:443/global/sporttvbr2/index.m3u8?token=5ba569d4f0e51d28f36147354a10093c7433ce68-62-1788773435-1788719435&ip=216.225.199.168
+https://193.domhsd.com:443/global/sporttvbr2/index.m3u8?token=35ec072cd957fa5b523e97d2ad1d3bce916755d7-87-1788780647-1788726647&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/sporttvbr3.png", Sport TV 3 BR
-https://7.domhsd.com:443/global/sporttvbr3/index.m3u8?token=4ddde1246e5843d07d64a8f5f1b48db4c02b8ba5-91-1788773435-1788719435&ip=216.225.199.168
+https://47.domhsd.com:443/global/sporttvbr3/index.m3u8?token=758058b8542fa0ea00fba2f0ad058a9ef4e98873-f5-1788780648-1788726648&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/premiere1.png", Premiere 1 BR
-https://47.domhsd.com:443/global/premiere1/index.m3u8?token=3da98791ffdb1e5a6c4323a6c0322ad093d8ace6-2c-1788773436-1788719436&ip=216.225.199.168
+https://98.domhsd.com:443/global/premiere1/index.m3u8?token=9445f55140d7d6b841bca5d31b589dbc51a5cd6c-c4-1788780648-1788726648&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/premiere2.png", Premiere 2 BR
-https://98.domhsd.com:443/global/premiere2/index.m3u8?token=4300ce7a80ed9174d4aed730e2ec2143ef398cfe-53-1788773436-1788719436&ip=216.225.199.168
+https://7.domhsd.com:443/global/premiere2/index.m3u8?token=0de0fc8ba7574c7a8123652b2af129301f355400-4d-1788780648-1788726648&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/premiere3.png", Premiere 3 BR
-https://7.domhsd.com:443/global/premiere3/index.m3u8?token=620e7b36d5ff557fa1f9a3d87a95738b10517865-33-1788773437-1788719437&ip=216.225.199.168
+https://7.domhsd.com:443/global/premiere3/index.m3u8?token=c18e67b26a8fef6c55b04dbf96a14ca3ed16239f-38-1788780649-1788726649&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/foxone.png", Fox ONE MX
-https://47.domhsd.com:443/global/foxone/index.m3u8?token=4d8d4851ef4b71681c4109d700fdc7139071e63c-9f-1788773437-1788719437&ip=216.225.199.168
+https://193.domhsd.com:443/global/foxone/index.m3u8?token=2866155709fcfd508777f7932118cd7db5ff1325-97-1788780649-1788726649&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tycinternacional.png", TyC Sports Internacional
-https://98.domhsd.com:443/global/tycinternacional/index.m3u8?token=911f68e883d819d791fcd67cabbf2d468fcbe3d5-18-1788773437-1788719437&ip=216.225.199.168
+https://85.domhsd.com:443/global/tycinternacional/index.m3u8?token=947e8ae0e2924093af04e89a6f21c869e4b67ce9-ca-1788780649-1788726649&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/canal5mx.png", Canal 5 MX
-https://14.domhsd.com:443/global/canal5mx/index.m3u8?token=e6c80f04e55bc30248cc9b99f04f27227bcf4c2e-bf-1788773438-1788719438&ip=216.225.199.168
+https://14.domhsd.com:443/global/canal5mx/index.m3u8?token=bdeff4e85b12625a14f22ebc18b6a754a58d2ef4-37-1788780650-1788726650&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/tudnmx.png", TUDN MX
-https://7.domhsd.com:443/global/tudnmx/index.m3u8?token=193a577e9eb0a0746b3f7dc75511f6bcd48f15da-1d-1788773438-1788719438&ip=216.225.199.168
+https://14.domhsd.com:443/global/tudnmx/index.m3u8?token=4685af5d5ae5a3e4b1b74642a37dd251b5c07d66-0e-1788780650-1788726650&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/hypermotion1.png", LaLiga Hypermotion
-https://98.domhsd.com:443/global/hypermotion1/index.m3u8?token=a46029600b1d080db38b13a862168ae21ec42ebd-cc-1788773438-1788719438&ip=216.225.199.168
+https://193.domhsd.com:443/global/hypermotion1/index.m3u8?token=a0906a0ad4da51452a1494f75b03da9235ef5bb8-87-1788780650-1788726650&ip=216.225.199.168
 #EXTINF:0 type="hls" channelId="-1" size="Medium" tvg-logo="http://192.168.1.1/logos/hypermotion2.png", LaLiga Hypermotion2
-https://98.domhsd.com:443/global/hypermotion2/index.m3u8?token=b914cb615350a3221c0859e116027d7c20fc98f0-d9-1788773439-1788719439&ip=216.225.199.168
+https://85.domhsd.com:443/global/hypermotion2/index.m3u8?token=e058e24eba505d630d01a1188010a08642b36bf3-94-1788780651-1788726651&ip=216.225.199.168
