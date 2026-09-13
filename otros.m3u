@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 3
-https://khala.futlivehd.com/global/espn3/index.m3u8?ip=216.225.199.168&token=90ee692fe7447f0fbd60d9a89828276581e97892-ea-1788845679-1788791679
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn premium
+https://khala.futlivehd.com/global/espnpremium/index.m3u8?ip=185.111.188.31&token=bade4e7590177c77ec1bcf9d3090663c5005516a-83-1789383485-1789329485
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",espn 2
 https://khala.futlivehd.com/global/espn2/index.m3u8?ip=216.225.199.168&token=4d15443b9b49f3e73938e82455d4c8cc43a80ebd-d3-1788845777-1788791777
