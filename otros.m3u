@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",italia2
-https://ym9yzq.fubo18.com/disney6/mono.m3u8?token=8c3766b4e949edce4ec5d1e4daa2a6cd9b829dd8-18-1790639039-1790621039
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",belgrano
+http://192.168.42.129:8888/proxy/hls/manifest.m3u8?d=https%3A%2F%2F643t8a.7odxv0l067ka.net%3A8443%2Fhls%2Fiths82m7yc4e6.m3u8%3Fs%3DSJjwXNCt2otM5fpglhIBpA%26e%3D1791170334&h_Origin=https%3A%2F%2Fassetrage.net&h_Referer=https%3A%2F%2Fassetrage.net%2F&api_password=mediaflow
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca2
 https://9.ftlly.com/tycsports/mono.m3u8?token=6794bc501a61f0c0c3a0efb76920760555718d6d-7d-1790555134-1790537134
