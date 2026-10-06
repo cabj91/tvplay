@@ -17,3 +17,6 @@ https://9.ftlly.com/tycsports/mono.m3u8?token=a221df75d3b619f2aad3d7c23350160d73
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png" LANGUAGE="spa" audio-track="spa" subtitles="spa",backrooms 2026_1
 http://192.168.42.129:8888/extractor/video.m3u8?host=Voe&d=https%3A%2F%2Fvoe.sx%2Fe%2F15ve5odtmoag&redirect_stream=true&api_password=mediaflow
+
+#EXTINF:-1 audio-track="es", backrooms 2026_2
+http://192.168.42.129:8888/proxy/hls/manifest.m3u8?d=http%3A%2F%2F192.168.42.129%3A8888%2Fextractor%2Fvideo.m3u8%3Fhost%3DVoe%26d%3Dhttps%253A%252F%252Fvoe.sx%252Fe%252F15ve5odtmoag%26redirect_stream%3Dtrue%26api_password%3Dmediaflow&max_res=true&resolution=1080p&r_audio_lang=es&api_password=mediaflow
