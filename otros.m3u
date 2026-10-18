@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Estudiantes
-http://192.168.42.129:8888/_token_is4Tvo_uFo7dYLV7wIjnoWuMt2alygc_AVIUd7E0Npu0P_xF7LjuWNVMN0fj4-X7t63FXr8MLRpfvjtPKw_t_ACvNWNmKBrWvEiBiQi1GtpLOwY0yLM1kqh6w2x8-OEy_ROAeKnqxZDf--OuXFMHi3oR-0UWmT1O1ECMHgnoIL6D2z8X6CHevuI-3u4MZijE9GH6ymOs7rthMBiUEKSArOPg9xXCadiyTVDMJZ4aMoOJZlmtzOjP_m9_qnsTDLUO7wu_u1SbITxIH6ZyMPhMHourm9NtVdAiBwkW40cQyNGm43xlBYPgCJV--NPZc8bYDIdx-WjnPc23aOe60MeRPf3V5Pg0CPDVqZJPt8GkbeQyjAYf5MXkG8ig6riwm86TAwB2aL9tXj4ZUGmaGZyzLPJv6BZZlHRUStG_RlatrotwtWN3UXe_UVhCdIPVcg4rlc2TChEPO2H_D7q9t2hK_4FCwHiRkmeqddcWNERmciBfVFMwDqECmwrP_NelcYT_/proxy/hls/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",Independiente
+https://khala.futlivehd.com/global/tntsports/index.m3u8?ip=216.225.199.168&token=58fe125c9e984956bbfa0113269e0392b080292e-b8-1792386049-1792332049
 
-#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 1
-https://khala.futlivehd.com/global/tntsports/index.m3u8?ip=216.225.199.168&token=abc998554147dc6a2e8c53853742e72c137767b7-b1-1792239818-1792185818
-
+#EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",racing
+https://khala.futlivehd.com/global/tntsports/index.m3u8?ip=216.225.199.168&token=58fe125c9e984956bbfa0113269e0392b080292e-b8-1792386049-1792332049
 
 #EXTINF:-1 tvg-logo="http://192.168.1.1/logos/espn.png",boca 2
 https://khala.futlivehd.com/global/espn/index.m3u8?ip=216.225.199.168&token=c293e92fc6975db8595a343e473e4d70f9c125a2-b7-1792239896-1792185896
