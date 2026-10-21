@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",boca 2
-https://khala.futlivehd.com/global/dsports/index.m3u8?ip=216.225.199.168&token=70dcb300c3aa5f7e7d5efbca624f2aac7147982e-54-1792582335-1792528335
-#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",disney 1
-https://khala.futlivehd.com/global/dsports/index.m3u8?ip=216.225.199.168&token=70dcb300c3aa5f7e7d5efbca624f2aac7147982e-54-1792582335-1792528335
+#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",como
+https://khala.futlivehd.com/global/espn/index.m3u8?ip=216.225.199.168&token=4c4896ef60e3de49531e8d538c88eaaf735534ba-a5-1792645786-1792591786
+#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",como 2
+https://khala.futlivehd.com/global/espn/index.m3u8?ip=216.225.199.168&token=4c4896ef60e3de49531e8d538c88eaaf735534ba-a5-1792645786-1792591786
 #EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",espnar
 https://khala.futlivehd.com/global/dsports/index.m3u8?ip=216.225.199.168&token=70dcb300c3aa5f7e7d5efbca624f2aac7147982e-54-1792582335-1792528335
 #EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",madrid 2
