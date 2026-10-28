@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",city
+#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",city 2
 https://khala.futlivehd.com/global/disney10/index.m3u8?ip=142.249.120.137&token=88db55cb9d814b7adef3b6ebd4ea4c5ef3386b5a-ab-1793262022-1793208022
-#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",como3
-https://85.domhsd.com/global/disney12/index.m3u8?token=24ce46f5a051697eab7204e262a240058eaa2d36-da-1793178745-1793124745&ip=142.249.120.137
+#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",city
+https://khala.futlivehd.com/global/disney10/index.m3u8?ip=216.225.199.168&token=b41d1135108a6c454015e9c4cf095b4dd4017025-4b-1793263790-1793209790
 #EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",como4
 https://khala.futlivehd.com/global/disney8/index.m3u8?ip=142.249.120.137&token=43af7a4c4239cfbd58506b0bf185682ee5824991-88-1793180264-1793126264
 #EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",madrid 2
