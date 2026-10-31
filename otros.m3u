@@ -1,7 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",city 2
-https://khala.futlivehd.com/global/disney10/index.m3u8?ip=142.249.120.137&token=88db55cb9d814b7adef3b6ebd4ea4c5ef3386b5a-ab-1793262022-1793208022
+#EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",newells
+https://5.ftlly.com/disney21/mono.m3u8?token=286b700cca63710bee2b941cce8ee45dfe818d2a-54-1793481365-1793463365
 #EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",city
 https://khala.futlivehd.com/global/disney10/index.m3u8?ip=216.225.199.168&token=b41d1135108a6c454015e9c4cf095b4dd4017025-4b-1793263790-1793209790
 #EXTINF:-1 tvg-logo="http://192.168.42.129:3128/logos/espn.png",monza
